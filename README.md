@@ -22,6 +22,10 @@ The project is actively being developed, so its features and capabilities will c
 - Community-focused features
 - More features in development
 
+## Community & Support
+
+Join the **[Garnet Discord Server](https://dsc.gg/garnetbot)** for support, discussions, bug reports, feature requests, and updates.
+
 ## Documentation & Policies
 
 | Document | Description |
